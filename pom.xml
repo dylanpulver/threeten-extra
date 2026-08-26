@@ -788,6 +788,7 @@
             </executions>
             <configuration>
               <source>11</source>
+              <release>11</release>
             </configuration>
           </plugin>
           <!-- Compile twice -->
@@ -831,6 +832,7 @@
             <artifactId>maven-javadoc-plugin</artifactId>
             <configuration>
               <source>11</source>
+              <release>11</release>
             </configuration>
           </plugin>
         </plugins>
